@@ -1,11 +1,11 @@
 package org.example;
 /* AUTHOR @Adams
-   Best Practices on Java Language features
-   Functions with Primitive types Only
-   Prerequisites:
-   Basic variables.
-
+ *Best Practices on Java Language features
+ *Functions with Primitive types Only
+ *Prerequisites:
+ *Basic variables.
 */
+
 // In Java, functions are encapsulated within classes
 public class BasicFunction{
     /*

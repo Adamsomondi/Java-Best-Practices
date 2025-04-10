@@ -3,13 +3,13 @@
 Author @Adams
 PART B TOPICS: Objects on the Heap.
              Memory Management Basics in Java.
-
+PRE:
 Basic Variables
 Basic Functions
 Classes and Objects Part A.
 
 NOTE: In Java, memory management is handled by the Java Virtual Machine (JVM)
-      and its Garbage Collector. Unlike C++, Java doesn't require explicit
+      and its Garbage Collector. Unlike C++ low level management, Java doesn't require explicit
       memory management with 'new' and 'delete'.
 */
 package org.example;

@@ -11,8 +11,6 @@ package org.example;
    Basic functions.
    Theory in Class Design, Patterns, Principles. Bottom Up Approach Programming.
 */
-
-//Predefined Classes
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 

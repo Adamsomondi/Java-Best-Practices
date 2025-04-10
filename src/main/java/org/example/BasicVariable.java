@@ -1,7 +1,7 @@
 /*
-  AUTHOR @Adams
+  *AUTHOR @Adams
 
-  Best Practices on Java Basic Language Features
+  *Best Practices on Java Basic Language Features
 */
 package org.example;
  public class BasicVariable {
