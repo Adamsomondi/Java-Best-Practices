@@ -1,4 +1,4 @@
-# A WELL CURATED LIST OF PROFESSIONAL Java BEST PRACTICES
+# A WELL CURATED LIST OF PROFESSIONAL JAVA BEST PRACTICES
   
 
 Run the codes at https://godbolt.org For better Visuals.
